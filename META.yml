@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Blog-Blosxom
-version:            0.06
+version:            0.07
 abstract:           A module version of the apparently inactive blosxom.cgi
 author:
     - Altreus <altreus@perl.org>
